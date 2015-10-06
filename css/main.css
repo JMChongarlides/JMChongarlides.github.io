@@ -19,9 +19,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.center {
+    text-align: center;
+}
 h1 {
     font-size: 7em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
 }
 p {
     font-size: 1.5em;
@@ -42,7 +46,3 @@ ul.posts li {
     list-style: none;
 }
 
-.center {
-    text-align: center;
-}
-}
