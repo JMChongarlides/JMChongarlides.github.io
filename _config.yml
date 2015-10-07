@@ -1,2 +1,4 @@
 name:JMChongralides
 markdown:kramdown
+gems:
+  - jekyll-sitemap
